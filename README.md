@@ -10,3 +10,9 @@ Free online tool to format an ugly HTML code, making it readable and pretty, wit
 
 https://fontawesome.com/icons?d=gallery
 Icon library
+
+https://unsplash.com/
+Source of freely-usable images.
+
+https://randomuser.me/
+Random user generator. A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
